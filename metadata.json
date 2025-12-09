@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Peyk Delivery AI",
+  "description": "A next-gen courier application with AI integration, glassmorphism UI, and comprehensive role-based management.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
